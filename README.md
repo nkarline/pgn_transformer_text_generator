@@ -1,4 +1,4 @@
-# Hybrid code-switched text generator based on transformer and pointer generator network.
+# Hybrid code-switched text generator based on  pointer generator network and transformer.
 
 
 ## 
